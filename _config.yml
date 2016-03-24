@@ -1,0 +1,28 @@
+name: Make Love For Life
+favicon: null
+layout_spectrum: 0.9448166624642909
+typography_spectrum: 0.02797134593129158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5475150770507753
+  lightness: 0.4437102936208248
+  saturation: 0.9727066664490849
+  rhythmicContrast: 0.9395989237818867
+purpose: []
